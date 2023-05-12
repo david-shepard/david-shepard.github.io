@@ -567,6 +567,9 @@ a:focus {
   max-width: 100%;
   height: auto;
   width: 300px;
+  border-radius: 50%;
+  border: ridge rgb(219, 215, 194);
+
 }
 
 .elsewhere {
