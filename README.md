@@ -1,3 +1,3 @@
-# germanattanasio.com
+# david-shepard.github.io
 
-Static HTML site.
+Very generic static HTML site.
